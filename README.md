@@ -84,8 +84,8 @@ This helps reduce duplication and improve traceability in requirement management
 ## 📦 Installation & Usage
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/reqalign.git
-cd reqalign
+git clone https://github.com/suhastr/SpecFusion
+cd SpecFusion
 
 # Create virtual environment
 python -m venv .venv
